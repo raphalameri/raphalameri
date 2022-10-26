@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raphalameri
-- 👀  Instituto Federal  do Rio de Janer-TI
+- 👀  Instituto Federal do Rio de Janeiro-TI
 
 <!---
 raphalameri/raphalameri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
